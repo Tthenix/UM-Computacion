@@ -1,1 +1,1 @@
-"# UM-Computaci-n" 
+Repositorio de la materia Computacion de segundo año de la carrear Ingeneria Informatica 
